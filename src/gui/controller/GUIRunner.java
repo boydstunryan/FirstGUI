@@ -1,5 +1,6 @@
 package gui.controller;
 
-public class GUIRunner {
+public class GUIRunner 
+{
 
 }
